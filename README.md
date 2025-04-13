@@ -30,7 +30,7 @@ Clear Chat Option – Wipe history with a single click.
 -Gemini AI API
 
 📝 Usage Live Demo →
- * [ Link](chatbot-stdm.netlify.app) <br/>
+ * [ MITHUN S](chatbot-stdm.netlify.app) <br/>
 
 
  *![QR](https://github.com/user-attachments/assets/2b57220a-c28d-4157-960e-17f4dc3843a2)
