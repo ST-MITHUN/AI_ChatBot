@@ -1,62 +1,51 @@
-# AI Chatbot Web Application 🤖
+# AI Chatbot Web Application 
 
 Welcome to the **AI Chatbot Web Application**! This project features a responsive chatbot powered by the **Gemini AI API**, crafted entirely with **HTML**, **CSS**, and **JavaScript**. 🌟
+
+A sleek and responsive AI-powered chatbot built using HTML, CSS, and JavaScript, integrated with the Gemini AI API.
 
 <h4>Project contributors :</h4>
 
  * [ MITHUN S](https://github.com/ST-MITHUN) <br/>
 
-## 🚀 Features
+ 
+🚀 Features Responsive Design – Optimized for all screen sizes (mobile, tablet, desktop).
 
-- **Responsive Design**: Adapts seamlessly to mobile, tablet, and desktop screens.
-- **Dark/Light Theme Switch**: Toggle between dark and light modes for optimal viewing comfort.
-- **Smooth Animations**: Experience fluid transitions and animations throughout the application.
-- **Local Storage**: Your chat history is saved even after refreshing the page—clear it anytime with the "Delete Chat" button.
+Dark/Light Mode – Easily switch between light and dark themes.
 
-## Technologies Used ⚙️
+Smooth Animations – Enjoy clean transitions and animations.
 
-- **Frontend**: 
-  - HTML 🖊
-  - CSS 🎨
-  - JavaScript ⚒
-  - Gemini AI API 💎
-- **Tools**:
-  - Vs Code for coding 💻
-  - Vercel App for deployment 🚀
+Persistent Chat History – Saved using local storage, even after page refresh.
 
-## 📝 Usage
+Clear Chat Option – Wipe history with a single click.
 
-- **Open the App**: click the live link mentioned below.
-- **Send a Message**: Type your message in the input field and press `Enter` or click **Send**.
-- **Toggle Themes**: Switch between dark and light modes using the theme toggle button.
-- **Refresh**: Refresh the page to keep your chat history, thanks to local storage.
-- **Clear Chat**: Click **Delete Chat** to remove all previous messages.
+⚙️ Technologies Frontend:
+
+-HTML
+
+-CSS
+
+-JavaScript
+
+-Gemini AI API
+
+📝 Usage Live Demo →
+ * [ Link](https://chatbot-stdm.netlify.app/) <br/>
 
 
-## Live Demo 🌐
+ *![QR](https://github.com/user-attachments/assets/2b57220a-c28d-4157-960e-17f4dc3843a2)
 
 
-You can view the live version here : [https://ai-chat-bot-pratham.vercel.app](https://ai-chat-bot-pratham.vercel.app)
 
+-Chat → Type and send messages.
 
-## Acknowledgments 🙏
+-Theme Toggle → Switch between dark/light mode.
 
-- Inspired by other ai platforms and web development communities.
-- Special thanks to Google Gemini AI API for their fantastic utility-first framework.
+-Persistent History → Chat history stays after refresh.
 
-## Contact 📫
+-Delete Chat → Clear messages with one click.
 
-Feel free to reach out to me:
-
-- Email: prathamsingh19102003@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/prathamsingh19102003](https://www.linkedin.com/in/prathamsingh19102003)
-- GitHub: [https://github.com/prathamsingh19](https://github.com/prathamsingh19)
-
----
-
-Thank you 👋
-
-
+🙏 Acknowledgments Inspired by modern AI platforms and developer communities. Special thanks to Google Gemini AI API for powering the chatbot intelligence.
 
 
 
